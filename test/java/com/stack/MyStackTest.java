@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
 public class MyStackTest {
+
     //reusing the code
     @Test
     public void given3Numbers_WhenAddedToStack_ShouldHaveLastAddedNode() {
