@@ -1,5 +1,4 @@
 package com.stack;
-
 public class MyNode<K> implements INode<K> {
     private INode next;
     private K key;
@@ -26,5 +25,4 @@ public class MyNode<K> implements INode<K> {
     public void setNext(INode next) {
         this.next = next;
     }
-
 }

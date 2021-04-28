@@ -1,5 +1,4 @@
 package com.stack;
-
 public class MyLinkedList {
 
     public INode head;
@@ -95,7 +94,6 @@ public class MyLinkedList {
             }
         }
     }
-
 
     public  void show() {
         INode node=head;
